@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shubhamquiz/static/css/main.3cc8637b.chunk.css",
+    "main.js": "/shubhamquiz/static/js/main.3808c727.chunk.js",
+    "main.js.map": "/shubhamquiz/static/js/main.3808c727.chunk.js.map",
+    "runtime-main.js": "/shubhamquiz/static/js/runtime-main.ec6aa119.js",
+    "runtime-main.js.map": "/shubhamquiz/static/js/runtime-main.ec6aa119.js.map",
+    "static/js/2.6529210e.chunk.js": "/shubhamquiz/static/js/2.6529210e.chunk.js",
+    "static/js/2.6529210e.chunk.js.map": "/shubhamquiz/static/js/2.6529210e.chunk.js.map",
+    "static/js/3.c3e10455.chunk.js": "/shubhamquiz/static/js/3.c3e10455.chunk.js",
+    "static/js/3.c3e10455.chunk.js.map": "/shubhamquiz/static/js/3.c3e10455.chunk.js.map",
+    "index.html": "/shubhamquiz/index.html",
+    "static/css/main.3cc8637b.chunk.css.map": "/shubhamquiz/static/css/main.3cc8637b.chunk.css.map",
+    "static/js/2.6529210e.chunk.js.LICENSE.txt": "/shubhamquiz/static/js/2.6529210e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec6aa119.js",
+    "static/js/2.6529210e.chunk.js",
+    "static/css/main.3cc8637b.chunk.css",
+    "static/js/main.3808c727.chunk.js"
+  ]
+}
